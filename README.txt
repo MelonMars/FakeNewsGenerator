@@ -1,0 +1,1 @@
+This is a fake news generator that can scrape sites, get and then modify headlines, and then make a new article based off of them. This was created back in mid 2023, so it is supposed to use the Wizard LLM. 
